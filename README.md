@@ -5,6 +5,7 @@ Dart Board allows you to break your app into features and then integration clean
 
 
 ![Demo](https://media3.giphy.com/media/Yo9eqMoEBYB1S45A92/giphy.gif)
+
 Demo above shows multiple integrated features and switching of templates/themes etc. However the features themselves are not dart-board, just the framework that manages and integrates them is.
 
 
